@@ -3,7 +3,7 @@ function happyHolidays(string){
   return ("Happy holidays!")
 }
 function happyHolidaysTo(name) {
-  return ('appy holidays, ${name}!')
+  return ('Happy holidays, ${name}!')
 }
 describe('functions', () => {
   describe('happyHolidays', () => {
