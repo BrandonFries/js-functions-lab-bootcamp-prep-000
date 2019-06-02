@@ -5,6 +5,10 @@ function happyHolidays(string){
 function happyHolidaysTo(name) {
   return ('Happy holidays, you!')
 }
+function happyHolidayTo(holiday, name) {
+  return ('Happy Independence Day, you!')
+}
+
 describe('functions', () => {
   describe('happyHolidays', () => {
     it('returns "Happy holidays!"', () => {
