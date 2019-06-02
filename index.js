@@ -2,11 +2,6 @@
 function happyHolidays(string){
   return ("Happy holidays!")
 }
-function happyHolidaysTo(string) {
-  return (happyHolidaysTo('you'))
-}
-
-
 describe('functions', () => {
   describe('happyHolidays', () => {
     it('returns "Happy holidays!"', () => {
