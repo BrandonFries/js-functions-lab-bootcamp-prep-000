@@ -9,7 +9,7 @@ function happyHolidayTo(holiday, name) {
   return ('Happy Independence Day, you!')
 }
 function holidayCountdown(holiday, day) {
-  return ("It's 20 days until Mother's day!")
+  return ('It\'s 20 days until Mother\'s day!')
 }
 
 describe('functions', () => {
