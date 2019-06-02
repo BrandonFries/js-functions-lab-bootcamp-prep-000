@@ -1,4 +1,8 @@
 // write your code below!
+function happyHolidays(string){
+  return ("Happy holidays!")
+}
+
 describe('functions', () => {
   describe('happyHolidays', () => {
     it('returns "Happy holidays!"', () => {
